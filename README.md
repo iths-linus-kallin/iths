@@ -1,5 +1,3 @@
 # iths
-
-Blessings!
-
-Welcome to ITHS!
+Hi! I'm Linus.
+I've made some changes to this code.
